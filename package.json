@@ -23,7 +23,7 @@
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
     "file-loader": "^4.2.0",
-    "qs": "^6.9.0",
+    "qs": "^6.5.3",
     "vue-template-compiler": "^2.6.10"
   },
   "browserslist": [
